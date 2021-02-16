@@ -8,7 +8,7 @@ Methods used:
 
 # Anisotropic cardiac tissue in 3D
 
-<img src=images/voltagehot3D2.png height="500">
+<img src=images/Voltagehot3D2.png height="500">
 
 ## This software was developerd by: **Hector Augusto Velasco-Perez** @CHAOS Lab@Georgia Institute of Technology
 
