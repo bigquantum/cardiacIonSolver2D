@@ -6,8 +6,6 @@ Methods used:
 - Solver:
 --  For the standar solver the integration is performed with 
 
-# Anisotropic cardiac tissue in 3D
-
 <img src=images/Voltagehot3D2.png height="500">
 <img src=images/tipCompare.png height="500">
 <img src=images/tipSYM2.png height="500">
