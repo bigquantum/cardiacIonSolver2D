@@ -1,0 +1,70 @@
+Initial condition path:,NA
+Results file path:,./DATA/results/sym01/
+Tip recording:,0
+Contour recording:,0
+Pacing stimulus:,0
+Reduce symmetry:,0
+Circular boundary:,0
+Neumann BCs:,1
+Gate diffusion:,1
+Tip bilinear interpolation:,1
+Anisotropic tisue:,0
+Tip gradient:,0
+Conduction block clock:,0
+Conduction block counterclock:,1
+# grid points X =,512
+# grid points Y =,512
+Physical Lx length,7.000000
+Physical Ly length,7.000000
+Physical dx,0.013699
+Physical dy,0.013699
+Time step:,0.010000
+Diffusion parallel component:,0.001000
+Diffusion perpendicular component:,0.001000
+Initial fiber angle:,0.000000
+Diffusion Dxx:,0.001000
+Diffusion Dyy:,0.001000
+Diffusion Dxy:,0.000000
+rxy (2*Dxy*dt/(4*dx*dy)):,0.000000
+rbx (hx*Dxy/(Dxx*dy)):,0.000000
+rby (hy*Dxy/(Dyy*dx)):,0.000000
+rx (Dxx*dt/(dx*dx)):,0.053290
+ry (Dyy*dt/(dy*dy)):,0.053290
+Gate r-scale:,0.100000
+invdx (1/(2*hx)),36.500000
+invdy (1/(2*hy)),36.500000
+Physical time limit:,20000.000000
+Number of electrodes,2
+Electrode position x:,256.000000
+Electrode position y:,256.000000
+Stimulus period:,24000
+Stimulus magnitude:,2.000000
+Number of points in circles:,100
+Stimulus position x:,1.750000
+Stimulus position y:,1.750000
+Stimulus area radius:,0.210000
+APD area radius:,1.050000
+Tip offset x,165
+Tip offset y,165
+Integral area radius:,2.232877
+Dirichlet BC value:,0.000000
+Iterations per frame:,200
+Sampling frequency:,100
+Min signal range,-0.100000
+Max signal range,4.000000
+Secondary window size x,512
+Secondary window size y,512
+Secondary window min signal 1 range,-0.100000
+Secondary window max signal 1 range,4.000000
+Secondary window min signal 2 range,2.000000
+Secondary window max signal 2 range,-0.100000
+Filament voltage threshold:,2.000000
+time scale (tc):,1.000000
+tau_e:,6.500000
+tau_n:,270.000000
+e_h:,3.000000
+e_n:,1.000000
+e_star:,1.541500
+Re:,0.400000
+M_d:,7.000000
+expRe:,0.670320
